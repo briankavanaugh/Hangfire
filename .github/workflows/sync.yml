@@ -16,3 +16,4 @@ jobs:
           owner: briankavanaugh
           base: master
           head: master
+          merge_method: rebase
